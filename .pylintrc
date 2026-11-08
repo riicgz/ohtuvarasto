@@ -1,6 +1,6 @@
 [FORMAT]
 max-line-length=80
-indent_string=''
+indent-string='    '
 
 [REFACTORING]
 max-nested-blocks=2
