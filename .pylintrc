@@ -6,5 +6,10 @@ indent-string='    '
 max-nested-blocks=2
 
 [DESIGN]
-max-statements=10
+max-statements=50
 max-args=4
+
+[MESSAGES CONTROL]
+disable=missing-module-docstring,
+        missing-class-docstring,
+        missing-function-docstring
